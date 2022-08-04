@@ -29,7 +29,7 @@ add_selectmonth = st.sidebar.selectbox(
     "SELECT MONTH",
     ("JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"))
 
-path1 = r"/Users/cbnindia/Library/CloudStorage/Box-Box/PRODUCTION/PRODUCTION_CONTENT/CONTENT/FY21-22/KINGSLEY_PAUL/Reports/DOCS/CBN_DOCS"
+path1 = r"E:\CBN_DOCS"
 if add_select_Report== "IR MONTHLY" or "IR SB" or "QUARTERLY BOARD":
     srcstr=dictRep[add_select_Report]+dictMonth[add_selectmonth]+add_selectyear[2:]
     
