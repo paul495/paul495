@@ -35,8 +35,6 @@ I've spent 4+ years building internal tools, automations, and AI-powered applica
 | [Media Release App](https://github.com/paul495/Media-Release)| Digitizes on-site media-release consent at scale — pre-fills participant data, then captures signature + photo on mobile and generates a signed PDF | Power Apps in Teams, Dataverse, Power Automate || RAG / LLM, Python, Vector DB |
 | [Document RAG Assistant](https://github.com/paul495/document-rag) | Lets staff ask natural-language questions and get answers grounded in 400+ internal documents — delivered as a Microsoft Teams chat. Live SharePoint ingestion, hybrid semantic search, grounded answers with source citations, and an automated evaluation harness. | RAG / LLM, Azure OpenAI, Azure AI Search, Python, Microsoft Graph |
 
-> Pin your six best, sanitized repos on your profile (Customize your pins). Update the links above as you publish each case study.
-
 ---
 
 ## 📈 Impact at a Glance
@@ -46,20 +44,12 @@ I've spent 4+ years building internal tools, automations, and AI-powered applica
 - 👥 Tools adopted across writers, producers, and operational teams
 - 🔗 Integrated data across SQL, SharePoint, Box, Teams, and Dataverse
 
-> Swap in your own headline metrics — measurable outcomes are what employers remember.
-
 ---
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [add your link](#)
-- **Email:** [add your email](#)
-- **Portfolio / Blog:** [add if you have one](#)
+- **LinkedIn:www.linkedin.com/in/kingsley-paul-8476461a8
+- 
 
-<!--
-SETUP NOTES:
-1. This repo MUST be named exactly "paul495" (your username) for the README to appear on your profile.
-2. Replace the [bracketed] placeholders with real links and content.
-3. Add a real avatar and bio via "Edit profile" on your profile page.
-4. Keep it scannable — recruiters skim in seconds.
--->
+
+
