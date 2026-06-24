@@ -4,15 +4,13 @@
 > Power Platform & AI Solutions Developer — I turn fragmented enterprise data and manual business processes into apps teams actually use.
 
 I've spent 4+ years building internal tools, automations, and AI-powered applications that streamline operations and lift team productivity. My focus is connecting messy, scattered data sources into clean, governed solutions — and increasingly, layering AI and RAG on top of them.
+
 ---
 ## 🎓 Education & Credentials
 
 ![Stanford](https://img.shields.io/badge/Stanford_Online-Machine_Learning_Specialization-8C1515?style=for-the-badge)
 &nbsp;
 ![IIT Guwahati](https://img.shields.io/badge/IIT_Guwahati-PG_Diploma_AI_%26_Data_Science-1a3a6b?style=for-the-badge)
-
-- **Machine Learning Specialization** — Stanford Online · supervised learning, neural networks, reinforcement learning
-- **PG Diploma, AI & Data Science** — IIT Guwahati · professional postgraduate certification
 
 ---
 
