@@ -34,7 +34,7 @@ I've spent 4+ years building internal tools, automations, and AI-powered applica
 | [Show Management System](https://github.com/paul495/show-management-system) | Manages the full script lifecycle for a broadcast team — assignment, multilingual drafting, single-approver sign-off, and dynamic routing — for 21+ episodes/month across 10 users | Power Apps, SharePoint, Office 365 |
 | [Media Release App](https://github.com/paul495/Media-Release)| Digitizes on-site media-release consent at scale — pre-fills participant data, then captures signature + photo on mobile and generates a signed PDF | Power Apps in Teams, Dataverse, Power Automate || RAG / LLM, Python, Vector DB |
 | [Document RAG Assistant](https://github.com/paul495/document-rag) | Lets staff ask natural-language questions and get answers grounded in 400+ internal documents — delivered as a Microsoft Teams chat. Live SharePoint ingestion, hybrid semantic search, grounded answers with source citations, and an automated evaluation harness. | RAG / LLM, Azure OpenAI, Azure AI Search, Python, Microsoft Graph |
-
+| [AgenticYouTubeFlow](https://github.com/paul495/AgenticYouTubeFlow) | Publishes a batch of catalog videos to YouTube end to end — pulls each file from cloud storage, writes the title, description, and tags with an LLM, and uploads as unlisted, triggered from a low-code button or web console | LangGraph, Claude, FastAPI, Box & YouTube APIs, Power Automate, Dataverse, Render |
 ---
 
 ## 📈 Impact at a Glance
