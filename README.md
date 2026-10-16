@@ -3,7 +3,7 @@
 
 > Power Platform & AI Solutions Developer — I turn fragmented enterprise data and manual business processes into apps teams actually use.
 
-I've spent 4+ years building internal tools, automations, and AI-powered applications that streamline operations and lift team productivity. My focus is connecting messy, scattered data sources into clean, governed solutions — and increasingly, layering AI and RAG on top of them.
+I've spent 5+ years building internal tools, automations, and AI-powered applications that streamline operations and lift team productivity. My focus is connecting messy, scattered data sources into clean, governed solutions — and increasingly, layering AI and RAG on top of them.
 
 ---
 ## 🎓 Education & Credentials
